@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.2" height="40.747" viewBox="0 0 44.2 40.747">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#838fc1"/>
+      <stop offset="1" stop-color="#1f3ba9"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-table" data-name="Icon awesome-table" d="M40.056,2.25H4.144A4.259,4.259,0,0,0,0,6.616V38.631A4.259,4.259,0,0,0,4.144,43H40.056A4.259,4.259,0,0,0,44.2,38.631V6.616A4.259,4.259,0,0,0,40.056,2.25ZM19.338,37.176H5.525V28.444H19.338Zm0-14.552H5.525V13.892H19.338ZM38.675,37.176H24.863V28.444H38.675Zm0-14.552H24.863V13.892H38.675Z" transform="translate(0 -2.25)" fill="url(#linear-gradient)"/>
+</svg>
